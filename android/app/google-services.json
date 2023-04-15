@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271150833569",
+    "project_id": "yellowclassauth",
+    "storage_bucket": "yellowclassauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271150833569:android:bb890395aedf52aa4e75e0",
+        "android_client_info": {
+          "package_name": "com.example.contacts_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271150833569-4bdpnqu789vrdkc679gne8mtrsda4ce0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZxbEtKa9qiP18nBs-cMpxmFLw4t0PWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271150833569-4bdpnqu789vrdkc679gne8mtrsda4ce0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
